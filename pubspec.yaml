@@ -39,6 +39,7 @@ dependencies:
   firebase_core: ^2.27.0
   curved_navigation_bar: ^1.0.6
   get: ^4.6.6
+  icons_plus: ^5.0.0
 
 dev_dependencies:
   flutter_test:
