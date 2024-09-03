@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-home: FirstPage(),
+home: LoginPage(),
       routes: {
         '/profile': (context) => ProfilePage(),
        // '/dash': (context) => DashBoard(),

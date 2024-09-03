@@ -1,0 +1,1 @@
+ F:\\PATHIKA\\.dart_tool\\flutter_build\\cb3a3ad1f2f4ff29bd33f72fafcabb36\\native_assets.yaml: 
